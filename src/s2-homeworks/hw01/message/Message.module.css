@@ -39,6 +39,7 @@
     height: 0;
     border-bottom: 9px solid #0066CC;
     border-right: 12px solid transparent;
+    
     position: absolute;
     bottom: 0;
     right: -12px;
