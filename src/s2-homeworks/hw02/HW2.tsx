@@ -46,6 +46,7 @@ export const filterAffairs = (
   }
   return affairs.filter((f) => f.priority === filter); // need to fix
 };
+
 export const deleteAffair = (affairs: Array<AffairType>, _id: number): Array<AffairType> => {
   // need to fix any
 
