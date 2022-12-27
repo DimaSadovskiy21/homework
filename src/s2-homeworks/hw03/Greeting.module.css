@@ -29,11 +29,11 @@
     font-size: 16px;
     line-height: 20px;
     color: #000000;
-    outline: none;
+    
 }
 
 .input:focus {
-    
+    outline: none;
 }
 
 .errorInput {
@@ -63,6 +63,7 @@
 }
 
 .button:focus {
+    outline: none;
 }
 
 .button:active {
