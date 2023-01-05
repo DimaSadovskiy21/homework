@@ -1,9 +1,11 @@
 .sidebar {
-    display: none;
+   display: none;
+    visibility: hidden;
 }
 
 .sidebar.open {
     display: flex;
+    visibility: visible;
     flex-direction: column;
     width: 317px;
     height: 100vh;
